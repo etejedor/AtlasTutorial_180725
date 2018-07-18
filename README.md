@@ -1,6 +1,6 @@
 # ATLAS Induction Days and Software Tutorials: Latest From ROOT
 <hr style="border-top-width: 4px; border-top-color: #34609b;">
-Welocme to the hands-on session of the ["Latest From ROOT"](https://indico.cern.ch/event/731951/timetable/) contribution of the ATLAS Induction Days and Software Tutorials
+Welocme to the hands-on session of the [Latest From ROOT](https://indico.cern.ch/event/731951/timetable/) contribution of the ATLAS Induction Days and Software Tutorials
 
 ## Objectives
 During this session, you will see in action the concepts we discussed during the presentation. In particular, you will perform an "analysis" of an open dataset of the CMS experiment.
