@@ -2,10 +2,7 @@
 <hr style="border-top-width: 4px; border-top-color: #34609b;" />
 Welocme to the hands-on session of the [Latest From ROOT](http://indico.cern.ch/event/731951) contribution of the ATLAS Induction Days and Software Tutorials
 
-
 [![OpenInSwan](Badge.svg)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/dpiparo/AtlasTutorial_180725.git) 
-
-<img src="Badge.svg">
 
 ## Objectives
 During this session, you will see in action the concepts we discussed during the presentation. In particular, you will perform an "analysis" of an open dataset of the CMS experiment.
