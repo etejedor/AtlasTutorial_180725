@@ -5,7 +5,7 @@ Welocme to the hands-on session of the [Latest From ROOT](http://indico.cern.ch/
 
 [![OpenInSwan](Badge.svg)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/dpiparo/AtlasTutorial_180725.git) 
 
-<img src="https://img.shields.io/badge/Open%20in%20%E2%98%81-SWAN-orange.svg">
+<img src="Badge.svg">
 
 ## Objectives
 During this session, you will see in action the concepts we discussed during the presentation. In particular, you will perform an "analysis" of an open dataset of the CMS experiment.
