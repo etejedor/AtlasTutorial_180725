@@ -1,6 +1,9 @@
 # ATLAS Induction Days and Software Tutorials: Latest From ROOT
 <hr style="border-top-width: 4px; border-top-color: #34609b;" />
-Welocme to the hands-on session of the [Latest From ROOT](https://indico.cern.ch/event/731951) contribution of the ATLAS Induction Days and Software Tutorials
+Welocme to the hands-on session of the [Latest From ROOT](http://indico.cern.ch/event/731951) contribution of the ATLAS Induction Days and Software Tutorials
+
+
+[![OpenInSwan](https://img.shields.io/badge/Open%20in%20%E2%98%81-SWAN-orange.svg)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/dpiparo/AtlasTutorial_180725.git) 
 
 <img src="https://img.shields.io/badge/Open%20in%20%E2%98%81-SWAN-orange.svg">
 
