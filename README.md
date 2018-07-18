@@ -3,7 +3,7 @@
 Welocme to the hands-on session of the [Latest From ROOT](http://indico.cern.ch/event/731951) contribution of the ATLAS Induction Days and Software Tutorials
 
 
-[![OpenInSwan](https://img.shields.io/badge/Open%20in%20%E2%98%81-SWAN-orange.svg)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/dpiparo/AtlasTutorial_180725.git) 
+[![OpenInSwan](Badge.svg)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/dpiparo/AtlasTutorial_180725.git) 
 
 <img src="https://img.shields.io/badge/Open%20in%20%E2%98%81-SWAN-orange.svg">
 
