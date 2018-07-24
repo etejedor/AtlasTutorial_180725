@@ -5,7 +5,7 @@ Welcome to the hands-on session of the Latest From ROOT (here the agenda http://
 [![OpenInSwan](Badge.svg)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/dpiparo/AtlasTutorial_180725.git) 
 
 ## Objectives
-During this session, you will see in action the concepts we discussed during the presentation. In particular, you will perform an "analysis" of an open dataset of the CMS experiment.
+During this session, you will see in action the concepts we discussed during the presentation. In particular, you will perform an "analysis" of an open LHC dataset.
 
 The tool you will be using is [RDataFrame](https://root.cern.ch/doc/master/classROOT_1_1RDataFrame.html). We provided for you two notebooks where you will be able to complete a skeleton already prepared for you. One notebook is in Python, the other one in C++: feel free to decide to start with the one you prefer. 
 
