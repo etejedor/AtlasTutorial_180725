@@ -1,6 +1,6 @@
 # ATLAS Induction Days and Software Tutorials: Latest From ROOT
 <hr style="border-top-width: 4px; border-top-color: #34609b;" />
-Welocme to the hands-on session of the Latest From ROOT (here the agenda http://indico.cern.ch/event/731951) contribution of the ATLAS Induction Days and Software Tutorials.
+Welcome to the hands-on session of the Latest From ROOT (here the agenda http://indico.cern.ch/event/731951) contribution of the ATLAS Induction Days and Software Tutorials.
 
 [![OpenInSwan](Badge.svg)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/dpiparo/AtlasTutorial_180725.git) 
 
